@@ -1,8 +1,8 @@
 # Origin
 ###Origin Challenge
 <p>Para ejecutar el proyecto:</p>  :information_source:
-<p>Desde la carpeta Frontend npm run dev</p>
-<p>Desde la carpeta Api node Server.js</p>
+<p>Desde la carpeta Frontend: npm run dev</p>
+<p>Desde la carpeta Api :node Server.js</p>
 <p>Usuario:  usuarioEjemplo</p>
 <p></p>Password: contraseñaEspecifica </p>
 
