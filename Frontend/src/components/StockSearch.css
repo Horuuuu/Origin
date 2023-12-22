@@ -1,0 +1,29 @@
+.stock-search {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .symbol-input {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+  }
+  
+  .symbol-input label {
+    margin-right: 5px;
+  }
+  
+  .add-button button {
+    padding: 8px 12px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .add-button button:hover {
+    background-color: #45a049;
+  }
+  

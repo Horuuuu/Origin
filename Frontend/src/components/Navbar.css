@@ -1,0 +1,21 @@
+/* Navbar.css */
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    
+  }
+  
+  .left {
+    font-size: 1em;
+  }
+  
+  .right {
+    font-size: 1em;
+    margin-left: auto; /* Esto empujará 'right' a la derecha */
+  }
+  
