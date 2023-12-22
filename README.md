@@ -1,10 +1,10 @@
 # Origin
 ###Origin Challenge
 Para ejecutar el proyecto:  :information_source:
-<p>Desde la carpeta Frontend npm run dev
-Desde la carpeta Api node Server.js
-Usuario:  usuarioEjemplo
-Password: contraseñaEspecifica </p>
+<p>Desde la carpeta Frontend npm run dev</p>
+<p>Desde la carpeta Api node Server.js</p>
+<p>Usuario:  usuarioEjemplo</p>
+<p></p>Password: contraseñaEspecifica </p>
 
 apiKey = 'd4c1447c67104854bb7488d8dd25ce07'
 
